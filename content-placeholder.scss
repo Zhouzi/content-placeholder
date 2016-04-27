@@ -1,0 +1,13 @@
+@mixin content-placeholder ($color) {
+  color: transparent;
+  background-color: $color;
+
+  // disable pointer events such as clicks and hovers
+  // useful to disable side effects of buttons, links, ...
+  pointer-events: none;
+
+  // the text inside a content-placeholder is just placeholder content
+  // so it should be treated like text and has no meaning
+  // Note: not sure if that's 100% accessibility-wise
+  user-select: none;
+}

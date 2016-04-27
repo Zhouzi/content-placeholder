@@ -1,0 +1,27 @@
+{
+  "name": "content-placeholder",
+  "version": "0.0.0",
+  "description": "Content placeholder made easy.",
+  "main": "content-placeholder.scss",
+  "style": "content-placeholder.scss",
+  "files": [
+    "content-placeholder.scss",
+    "package.json",
+    "README.md"
+  ],
+  "author": "Gabin Aureche <hello@gabinaureche.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zhouzi/content-placeholder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zhouzi/content-placeholder/issues"
+  },
+  "homepage": "https://github.com/Zhouzi/content-placeholder",
+  "keywords": [
+    "css",
+    "content",
+    "placeholder"
+  ]
+}
