@@ -1,11 +1,14 @@
 {
   "name": "content-placeholder",
   "version": "0.0.0",
-  "description": "Content placeholder made easy.",
-  "main": "content-placeholder.scss",
-  "style": "content-placeholder.scss",
+  "description": "A 4-lines-of-css loading experience improvement.",
+  "main": "content-placeholder.css",
+  "style": "content-placeholder.css",
   "files": [
     "content-placeholder.scss",
+    "content-placeholder.less",
+    "content-placeholder.css",
+    "content-placeholder.styl",
     "package.json",
     "README.md"
   ],
@@ -22,6 +25,10 @@
   "keywords": [
     "css",
     "content",
-    "placeholder"
+    "placeholder",
+    "performance",
+    "loading",
+    "design",
+    "ux"
   ]
 }

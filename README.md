@@ -1,3 +1,3 @@
 # content-placeholder
 
-Content placeholder made easy.
+A 4-lines-of-css loading experience improvement.

@@ -7,9 +7,9 @@
  *     Note: not sure if that's 100% accesibility-wise
  */
 
-@mixin content-placeholder ($color) {
+.content-placeholder {
   color: transparent;
-  background-color: $color;
+  background-color: #dadada;
   pointer-events: none; /* 1 */
   user-select: none; /* 2 */
 }
